@@ -1,75 +1,55 @@
 ## Hi, I'm Samiris 👋
 A **UX/UI Designer curious**. Creative UX for people, powered by data 📊  
 - 🧩 UX/UI Designer with 4 years of experience
-- 💻 **Student at 42**
-- 💛 **Volunteer at [Ladies that UX Porto](https://www.linkedin.com/company/ladies-that-ux-porto/)**  
+- 👩🏽‍💻 **Student at 42**
+- 🤝 **Volunteer at [Ladies that UX Porto](https://www.linkedin.com/company/ladies-that-ux-porto/)**  
 
 ---
 
 ## 🎨 Design Tools
-<p style="display: flex; vertical-align: baseline; gap: 8px;">
-  <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" />
-  <span>Figma and Figjam </span>
-</p>
-<p style="display: flex; align-items: center; gap: 8px;">
-  <img width="30" height="30" src="https://clarity.microsoft.com/blog/wp-content/uploads/2025/02/siteIcon.png" alt="Clarity" />
-  <span>Clarity </span>
-</p>
+<div style="display: flex; gap: 30px; align-items: center;">
+    <img height="80" src="https://images.icon-icons.com/2699/PNG/512/figma_logo_icon_171159.png" alt="Figma" style="vertical-align: middle;" />
+    <img height="90" src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="Clarity" style="vertical-align: middle;" />
+    <img height="80" src="https://auth.maze.co/auth/maze_full.svg" alt="Maze" style="vertical-align: middle;" />
+    <img height="90" src="https://storage.googleapis.com/images-blog.uiclap.com/content/images/wordpress/2020/08/analytics.png" alt="Analytics" style="vertical-align: middle;" /> 
+</div>
 
-- Maze (remote usability testing)
-- Clarity (user behavior analysis)
-- Google Analytics (user insights and data-driven decisions)
-## 🧰 Tools & Tech
-- C (programming language)  
-- HTML/CSS (basic knowledge)  
-- VS Code (code editor)  
-- GitHub (version control and collaboration)  
-- Agile methodologies (Scrum, Kanban)
-
+## 💻 Tech
+<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="vertical-align: middle;" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="vertical-align: middle;" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" style="vertical-align: middle;" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="vertical-align: middle;" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="vertical-align: middle;" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="vertical-align: middle;" />
+</div>
 
 ---
-
-## ✨ O que me move
-
-- 💡 Curiosidade constante e vontade de aprender
-- 🤝 Colaboração e empatia com pessoas
-- 📈 Resolver problemas reais com impacto
-- 🧠 Pensamento crítico e foco no utilizador
+## GITHub Status
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamirisSantos&show_icons=true&theme=tokyonight" alt="Samiris GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirisSantos&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+</div>
 
 ---
+## 📬 Get in touch
 
-## 🌱 Atualmente...
+<div style="display: flex; flex-direction: column; gap: 12px; align-items: start;">
+  <p><a href="https://www.linkedin.com/in/samiris-santos/" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <span>LinkedIn</span>
+  </a></p>
 
-- Estou a explorar mais sobre **programação**, com interesse na 42 School
-- Aberta a oportunidades na área de **Product Design**, especialmente em ambientes colaborativos e com foco em impacto social
+  <p><a href="https://medium.com/@samiris.araujo" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
+    <img width="30" height="30" src="https://cdn6.aptoide.com/imgs/9/d/7/9d7368ab609d01800744199849e9e365_icon.png" alt="Medium" />
+    <span>Medium</span>
+  </a></p>
 
----
-
-## 📬 Como falar comigo
-
-- [LinkedIn](https://www.linkedin.com/in/samiris-santos/)
-- Email: samiris.santos[at]gmail.com *(ajusta para evitar spam)*
-
----
-
-_Feito com 💛 por [Samiris Santos](https://www.linkedin.com/in/samiris-santos/)_
-
-
-
-
+  <p><a href="https://www.behance.net/Samiris" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
+    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" />
+    <span>Behance</span>
+  </a></p>
+</div>
 
 
-<!--
-**SamirisSantos/SamirisSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
