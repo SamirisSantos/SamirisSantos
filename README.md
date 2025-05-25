@@ -1,7 +1,7 @@
 ## Hi, I'm Samiris 👋
 A **UX/UI Designer curious**. Creative UX for people, powered by data 📊  
 - 🧩 UX/UI Designer with 4 years of experience
-- 👩🏽‍💻 **Student at 42**
+- 👩🏽‍💻 **Student at [42 Porto](https://www.42porto.com/pt/)**
 - 🤝 **Volunteer at [Ladies that UX Porto](https://www.linkedin.com/company/ladies-that-ux-porto/)**  
 
 ---
