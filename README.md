@@ -27,8 +27,8 @@ A **UX/UI Designer curious**. Creative UX for people, powered by data 📊
 ---
 ## GITHub Status
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamirisSantos&show_icons=true&theme=tokyonight" alt="Samiris GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirisSantos&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=SamirisSantos&show_icons=true&theme=tokyonight" alt="Samiris GitHub Stats" height="200"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirisSantos&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
 </div>
 
 ---
