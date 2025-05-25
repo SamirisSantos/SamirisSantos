@@ -8,10 +8,10 @@ A **UX/UI Designer curious**. Creative UX for people, powered by data 📊
 
 ## 🎨 Design Tools
 <div style="display: flex; gap: 30px; align-items: center;">
-    <img height="80" src="https://images.icon-icons.com/2699/PNG/512/figma_logo_icon_171159.png" alt="Figma" style="vertical-align: middle;" />
-    <img height="90" src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="Clarity" style="vertical-align: middle;" />
-    <img height="80" src="https://auth.maze.co/auth/maze_full.svg" alt="Maze" style="vertical-align: middle;" />
-    <img height="90" src="https://storage.googleapis.com/images-blog.uiclap.com/content/images/wordpress/2020/08/analytics.png" alt="Analytics" style="vertical-align: middle;" /> 
+    <img height="60" src="https://images.icon-icons.com/2699/PNG/512/figma_logo_icon_171159.png" alt="Figma" style="vertical-align: middle;" />
+    <img height="70" src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="Clarity" style="vertical-align: middle;" />
+    <img height="60" src="https://auth.maze.co/auth/maze_full.svg" alt="Maze" style="vertical-align: middle;" />
+    <img height="70" src="https://storage.googleapis.com/images-blog.uiclap.com/content/images/wordpress/2020/08/analytics.png" alt="Analytics" style="vertical-align: middle;" /> 
 </div>
 
 ## 💻 Tech
