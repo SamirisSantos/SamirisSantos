@@ -8,10 +8,10 @@ A **UX/UI Designer curious**. Creative UX for people, powered by data 📊
 
 ## 🎨 Design Tools
 <div style="display: flex; gap: 30px; align-items: center;">
-    <img height="60" src="https://images.icon-icons.com/2699/PNG/512/figma_logo_icon_171159.png" alt="Figma" style="vertical-align: middle;" />
-    <img height="70" src="https://www.drupal.org/files/project-images/logo-microsoft-clarity.jpg" alt="Clarity" style="vertical-align: middle;" />
-    <img height="60" src="https://auth.maze.co/auth/maze_full.svg" alt="Maze" style="vertical-align: middle;" />
-    <img height="70" src="https://storage.googleapis.com/images-blog.uiclap.com/content/images/wordpress/2020/08/analytics.png" alt="Analytics" style="vertical-align: middle;" /> 
+    <img height="80" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-icon-download-in-svg-png-gif-file-formats--logo-social-media-brand-iconography-pack-logos-icons-10919045.png?f=webp&w=256" alt="Figma" style="vertical-align: middle;" />
+    <img height="80" src="https://www.pitchbreak.us/content/images/2023/08/Tools---Clarity@10x.webp" alt="Clarity" style="vertical-align: middle;" />
+    <img height="80" src="https://www.datocms-assets.com/38511/1627404461-publisherlogo.jpg?auto=format" alt="Maze" style="vertical-align: middle;" />
+    <img height="70" src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-logo-icon-download-in-svg-png-gif-file-formats--pack-logos-icons-1721667.png?f=webp&w=256" alt="Analytics" style="vertical-align: middle;" /> 
 </div>
 
 ## 💻 Tech
@@ -23,7 +23,6 @@ A **UX/UI Designer curious**. Creative UX for people, powered by data 📊
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascrip" style="vertical-align: middle;" />    
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="vertical-align: middle;" />
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="vertical-align: middle;" />
 </div>
 
 ---
