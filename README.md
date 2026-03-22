@@ -1,56 +1,80 @@
-## Hi, I'm Samiris 👋
-A **UX/UI Designer curious**. Creative UX for people, powered by data 📊  
-- 🧩 UX/UI Designer with 4 years of experience
-- 👩🏽‍💻 **Student at [42 Porto](https://www.42porto.com/pt/)**
-- 🤝 **Volunteer at [Ladies that UX Porto](https://www.linkedin.com/company/ladies-that-ux-porto/)**  
+<div align="center">
 
----
+```
+███████╗ █████╗ ███╗   ███╗██╗██████╗ ██╗███████╗
+██╔════╝██╔══██╗████╗ ████║██║██╔══██╗██║██╔════╝
+███████╗███████║██╔████╔██║██║██████╔╝██║███████╗
+╚════██║██╔══██║██║╚██╔╝██║██║██╔══██╗██║╚════██║
+███████║██║  ██║██║ ╚═╝ ██║██║██║  ██║██║███████║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-## 🎨 Design Tools
-<div style="display: flex; gap: 30px; align-items: center;">
-    <img height="80" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-icon-download-in-svg-png-gif-file-formats--logo-social-media-brand-iconography-pack-logos-icons-10919045.png?f=webp&w=256" alt="Figma" style="vertical-align: middle;" />
-    <img height="80" src="https://www.pitchbreak.us/content/images/2023/08/Tools---Clarity@10x.webp" alt="Clarity" style="vertical-align: middle;" />
-    <img height="80" src="https://www.datocms-assets.com/38511/1627404461-publisherlogo.jpg?auto=format" alt="Maze" style="vertical-align: middle;" />
-    <img height="70" src="https://cdn.iconscout.com/icon/free/png-512/free-google-analytics-logo-icon-download-in-svg-png-gif-file-formats--pack-logos-icons-1721667.png?f=webp&w=256" alt="Analytics" style="vertical-align: middle;" /> 
-</div>
+# Hey, I'm Samiris 👾
 
-## 💻 Tech
-<div style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescrip" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascrip" style="vertical-align: middle;" />    
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" style="vertical-align: middle;" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="vertical-align: middle;" />
+**Software Engineering Student @ 42 Porto · UX/UI Designer**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiris--santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiris-santos/)
+[![Behance](https://img.shields.io/badge/Behance-Samiris-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/Samiris)
+[![Medium](https://img.shields.io/badge/Medium-@samiris.araujo-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@samiris.araujo)
+[![Email](https://img.shields.io/badge/Email-samiris.araujo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samiris.araujo@gmail.com)
+
 </div>
 
 ---
-## GITHub Status
-<div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SamirisSantos&show_icons=true&theme=tokyonight" alt="Samiris GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirisSantos&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+## 🧠 About
+
+```c
+typedef struct  s_samiris
+{
+    char    *location;      /* Porto, Portugal */
+    char    *program;       /* 42 Porto — Software Engineering */
+    char    *background;    /* 4 years UX/UI Design @ B2B SaaS */
+    char    *focus;         /* Fullstack dev + Systems fundamentals */
+    bool    open_to_intern; /* true */
+}               t_samiris;
+```
+---
+
+## 🛠️ Tech Stack
+
+**Systems & Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SamirisSantos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirisSantos&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
-## 📬 Get in touch
 
-<div style="display: flex; flex-direction: column; gap: 12px; align-items: start;">
-  <p><a href="https://www.linkedin.com/in/samiris-santos/" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
-    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-    <span>LinkedIn</span>
-  </a></p>
+<div align="center">
 
-  <p><a href="https://medium.com/@samiris.araujo" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
-    <img width="30" height="30" src="https://cdn6.aptoide.com/imgs/9/d/7/9d7368ab609d01800744199849e9e365_icon.png" alt="Medium" />
-    <span>Medium</span>
-  </a></p>
+*Open to internship opportunities in software development · Porto or Remote*  
+`C` · `Systems` · `Fullstack` · `UX-informed Engineering`
 
-  <p><a href="https://www.behance.net/Samiris" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
-    <img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="Behance" />
-    <span>Behance</span>
-  </a></p>
 </div>
-
-
-
