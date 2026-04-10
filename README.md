@@ -11,7 +11,7 @@
 
 # Hey, I'm Samiris 👾
 
-**Software Engineering Student @ 42 Porto · UX/UI Designer**  
+**Software Engineer · UX/UI Designer**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samiris--santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiris-santos/)
 [![Behance](https://img.shields.io/badge/Behance-Samiris-053EFF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/Samiris)
