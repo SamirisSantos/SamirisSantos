@@ -28,7 +28,7 @@
 typedef struct  s_samiris
 {
     char    *location;      /* Porto, Portugal */
-    char    *program;       /* 42 Porto — Software Engineering */
+    char    *program;       /* 42 Porto — Software Engineer */
     char    *background;    /* 4 years UX/UI Design @ B2B SaaS */
     char    *focus;         /* Fullstack dev + Systems fundamentals */
     bool    open_to_intern; /* true */
